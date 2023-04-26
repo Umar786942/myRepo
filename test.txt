@@ -1,1 +1,2 @@
-Hello World- My name is Amish Umar
+Hello World- My name is Amish Umar....I am quicksort ....I am bubblesor
+Learning git reset
